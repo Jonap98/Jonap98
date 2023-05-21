@@ -4,7 +4,7 @@ Hi, my name is Jona Pérez and this is my github profile. I hope you like my pro
 ## About me
 - 💻 I'm a Software Engineer graduated from Instituto Tecnológico de Saltillo
 - 🚀 I'm a Flutter Developer
-- 🔥 I'm currently learning React
+- 🔥 I'm currently learning Angular
 
 ### Languages and Tools:
 
@@ -15,6 +15,7 @@ Hi, my name is Jona Pérez and this is my github profile. I hope you like my pro
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />](https://getbootstrap.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />](https://laravel.com/)
+[<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="react" width="40" height="40" />](https://angular.io)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />](https://reactjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />](https://www.mysql.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />](https://www.postgresql.org)
