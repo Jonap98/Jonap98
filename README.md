@@ -3,7 +3,7 @@ Hi, my name is Jona Pérez and this is my github profile. I hope you like my pro
 
 ## About me
 - 💻 I'm a Software Engineer graduated from Instituto Tecnológico de Saltillo
-- 🚀 I'm a Flutter Developer
+- 🚀 I'm a Full stack Developer
 - 🔥 I'm currently learning NodeJs
 
 ### Languages and Tools:
